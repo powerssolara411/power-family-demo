@@ -1,0 +1,19 @@
+{
+  "name": "Power Mission Control",
+  "short_name": "Power",
+  "description": "Nick AIOS visual mirror and offline family demo surface.",
+  "start_url": "./?pwa=1&demo=family",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0c0d10",
+  "background_color": "#0c0d10",
+  "icons": [
+    {
+      "src": "./brand/trinity.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
